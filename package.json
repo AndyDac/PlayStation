@@ -1,0 +1,20 @@
+{
+  "name": "plastationstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "^16.2.8",
+    "@angular/platform-browser": "^16.2.8",
+    "@angular/platform-browser-dynamic": "^16.2.8"
+  },
+  "devDependencies": {
+    "@angular/cli": "^16.2.5"
+  }
+}
